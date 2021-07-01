@@ -32,7 +32,7 @@ When assessing school summaries and performing schools, the score replacements d
 ### Average Reading Scores by Grade & School
 ![Average Reading Scores by Grade & School](images/Reading_Scores_by_grade.png)
 
-Another plus side from this data replacement is that it did not change the math and reading scores by grade. Granted, both the average math and reading score summaries were stratisfied by school and grade level. As shown above, the summary tables display "NaN" for ninth grade at Thomas High School whereas the remaining data remained intact.
+Another plus side from this data replacement is that it did not change the math and reading scores by grade.
 
 
 ### School Spending Summary
@@ -44,7 +44,7 @@ When reviewing the School Spending summary, this data change did not impact the 
 ### School Size Summary
 ![School Size Summary](images/Scores_by_SchoolSize.png)
 
-When reviewing the School Size summary, removing the ninth grade scores did not affect the average math and reading scores, but it did affect the passing percentages for medium-sized schools (1,000-2,000). In this category, % passing math, % passing reading, and % overall passing dropped 6% each. Before the data change, the School Size summary showed that medium-sized school had a high performance (91% overall passing) compared to small (90% overall passing) and large schools (58% overall passing). Given the data change, medium size school are the second in performance (85% overall passing).
+When reviewing the School Size summary, removing the ninth grade scores did not affect the average math and reading scores, but it did affect the passing percentages for medium-sized schools (1000-2000). In this category, % passing math, % passing reading, and % overall passing dropped 6% each. Before the data change, the School Size summary showed that medium-sized school had a high performance (91% overall passing) compared to small (90% overall passing) and large schools (58% overall passing). Given the data change, medium size school are the second in performance (85% overall passing).
 
 
 ### School Type Summary
